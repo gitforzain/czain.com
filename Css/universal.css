@@ -1,0 +1,36 @@
+.curcer{
+    cursor: pointer;
+}
+
+.icon_size{
+    width: 24px;
+  }
+
+.color{
+    color: var(--theme-color);
+}
+
+.txt_color{
+    color: var(--text-color);
+}
+
+.whait{
+
+    font-weight: 400;
+    font-size: 18px;
+}
+.whaits{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.cursor {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+  }
